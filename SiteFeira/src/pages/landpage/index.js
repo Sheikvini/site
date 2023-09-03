@@ -34,7 +34,7 @@ export default function Landpage() {
             {pergunta: 'Quem pode ir à feira?', resposta: 'Todos podem participar!'},
             {pergunta: 'O evento é gratuito?', resposta: 'Sim! A entrada na Feira de Profissões do Instituto é gratuita e sempre será.'},
             {pergunta: 'Quem fez os projetos?', resposta: 'Os projetos foram feitos por nossos alunos.'},
-            {pergunta: 'Sobre a alimentação', resposta: 'Teremos lanchonete no local.'},
+            {pergunta: 'Sobre a alimentação', resposta: 'Teremos lanchonete no local'},
         ]
     )
 
